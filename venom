@@ -1,0 +1,46 @@
+```html 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Валентинка</title> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+        } 
+        .gif { 
+            width: 200px; 
+            height: 200px; 
+        } 
+        #message { 
+            font-size: 20px; 
+            margin-top: 20px; 
+        } 
+        #buttons { 
+            margin-top: 20px; 
+        } 
+    </style> 
+</head> 
+<body> 
+    <img class="gif" src="your-cute-gif-url-here.gif" alt="Милая гифка"> 
+    <p id="message">никитка,ты будешь моим venom?</p> 
+    <div id="buttons"> 
+        <button onclick="sayYes()">Да</button> 
+        <button onclick="sayNo()">Нет</button> 
+    </div> 
+
+    <script> 
+        function sayYes() { 
+            alert("Уряяяяя Python!"); 
+        } 
+
+        function sayNo() { 
+            // нет убегает
+            // скрыть гифку
+        } 
+    </script> 
+</body> 
+</html> 
+``` 
