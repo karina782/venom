@@ -20,11 +20,12 @@
         } 
         #buttons { 
             margin-top: 20px; 
+            
         } 
     </style> 
 </head> 
 <body> 
-    <img class="gif" src="your-cute-gif-url-here.gif" alt="Милая гифка"> 
+    <img class="gif" src="<div class="tenor-gif-embed" data-postid="5758682949585120435" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kim-sejeong-sejeong-isa-sejebela-gif-5758682949585120435">Kim Sejeong Isa GIF</a>from <a href="https://tenor.com/search/kim+sejeong-gifs">Kim Sejeong GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Милая гифка"> 
     <p id="message">никитка,ты будешь моим venom?</p> 
     <div id="buttons"> 
         <button onclick="sayYes()">Да</button> 
